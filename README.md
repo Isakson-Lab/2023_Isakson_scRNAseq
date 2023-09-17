@@ -1,2 +1,2 @@
 # 2023_Isakson_scRNAseq
-Data deposited for the paper "Loss of Endothelial Cell Heterogeneity in Arteries after Obesogenic Diet"
+Supplemental tables deposited for the paper "Obesogenic diet disrupts tissue specific mitochondrial gene signatures in the artery and capillary endothelium"
