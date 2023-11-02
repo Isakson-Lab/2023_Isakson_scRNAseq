@@ -1,0 +1,101 @@
+,Symbol,Name
+1,ATP12A,"ATPase, H+/K+ transporting, nongastric, alpha polypeptide"
+2,ATP4A,"ATPase, H+/K+ exchanging, alpha polypeptide"
+3,ATP4B,"ATPase, H+/K+ exchanging, beta polypeptide"
+4,ATP5A1,"ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle"
+5,ATP5B,"ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide"
+6,ATP5C1,"ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1"
+7,ATP5D,"ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit"
+8,ATP5E,"ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit"
+9,ATP5F1,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit B1"
+10,ATP5G1,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit C1 (subunit 9)"
+11,ATP5G2,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit C2 (subunit 9)"
+12,ATP5G3,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit C3 (subunit 9)"
+13,ATP5H,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit d"
+14,ATP5I,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit E"
+15,ATP5J,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit F6"
+16,ATP5J2,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit F2"
+17,ATP5L,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit G"
+18,ATP5O,"ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit"
+20,COX10,COX10 heme A:farnesyltransferase cytochrome c oxidase assembly factor
+21,COX15,cytochrome c oxidase assembly homolog 15 (yeast)
+22,COX17,COX17 cytochrome c oxidase copper chaperone
+25,COX4I1,cytochrome c oxidase subunit IV isoform 1
+26,COX4I2,cytochrome c oxidase subunit IV isoform 2 (lung)
+27,COX5A,cytochrome c oxidase subunit Va
+28,COX5B,cytochrome c oxidase subunit Vb
+29,COX6A1,cytochrome c oxidase subunit VIa polypeptide 1
+30,COX6A2,cytochrome c oxidase subunit VIa polypeptide 2
+31,COX6B1,cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous)
+32,COX6B2,cytochrome c oxidase subunit VIb polypeptide 2 (testis)
+33,COX6C,cytochrome c oxidase subunit VIc
+34,COX7A1,cytochrome c oxidase subunit VIIa polypeptide 1 (muscle)
+35,COX7A2,cytochrome c oxidase subunit VIIa polypeptide 2 (liver)
+36,COX7B,cytochrome c oxidase subunit VIIb
+37,COX7B2,cytochrome c oxidase subunit VIIb2
+38,COX7C,cytochrome c oxidase subunit VIIc
+39,COX8A,cytochrome c oxidase subunit VIIIA (ubiquitous)
+40,COX8C,cytochrome c oxidase subunit VIIIC
+41,CYC1,cytochrome c-1
+42,LHPP,phospholysine phosphohistidine inorganic pyrophosphate phosphatase
+43,MT-ATP6,ATP synthase F0 subunit 6
+44,MT-ATP8,ATP synthase F0 subunit 8
+45,MT-CYB,cytochrome b
+46,MT-ND2,MTND2
+47,MT-ND3,"NADH dehydrogenase, subunit 3 (complex I)"
+48,MT-ND4,"NADH dehydrogenase, subunit 4 (complex I)"
+49,MT-ND4L,"NADH dehydrogenase, subunit 4L (complex I)"
+50,MT-ND5,"NADH dehydrogenase, subunit 5 (complex I)"
+51,MT-ND6,"NADH dehydrogenase, subunit 6 (complex I)"
+53,NDUFA1,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 1, 7.5kDa"
+54,NDUFA10,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 10, 42kDa"
+55,NDUFA11,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 11, 14.7kDa"
+56,NDUFA12,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 12"
+57,NDUFA13,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13"
+58,NDUFA2,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa"
+59,NDUFA3,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 3, 9kDa"
+60,NDUFA4,"NDUFA4, mitochondrial complex associated"
+61,NDUFA4L2,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4-like 2"
+62,NDUFA5,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5"
+63,NDUFA6,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa"
+64,NDUFA7,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 7, 14.5kDa"
+65,NDUFA8,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8, 19kDa"
+66,NDUFA9,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa"
+67,NDUFAB1,"NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa"
+68,NDUFB1,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 1, 7kDa"
+69,NDUFB10,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10, 22kDa"
+70,NDUFB11,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 11, 17.3kDa"
+71,NDUFB2,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2, 8kDa"
+72,NDUFB3,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3, 12kDa"
+73,NDUFB4,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 4, 15kDa"
+74,NDUFB5,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa"
+75,NDUFB6,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 6, 17kDa"
+76,NDUFB7,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 7, 18kDa"
+77,NDUFB8,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa"
+78,NDUFB9,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa"
+79,NDUFC1,"NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1, 6kDa"
+80,NDUFC2,"NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2, 14.5kDa"
+81,NDUFS1,"NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)"
+82,NDUFS2,"NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)"
+83,NDUFS3,"NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)"
+84,NDUFS4,"NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)"
+85,NDUFS5,"NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase)"
+86,NDUFS6,"NADH dehydrogenase (ubiquinone) Fe-S protein 6, 13kDa (NADH-coenzyme Q reductase)"
+87,NDUFS7,"NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)"
+88,NDUFS8,"NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)"
+89,NDUFV1,"NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa"
+90,NDUFV2,"NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa"
+91,NDUFV3,"NADH dehydrogenase (ubiquinone) flavoprotein 3, 10kDa"
+92,PPA1,pyrophosphatase (inorganic) 1
+93,PPA2,pyrophosphatase (inorganic) 2
+94,SDHA,"succinate dehydrogenase complex, subunit A, flavoprotein (Fp)"
+95,SDHB,"succinate dehydrogenase complex, subunit B, iron sulfur (Ip)"
+96,SDHC,"succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa"
+97,SDHD,"succinate dehydrogenase complex, subunit D, integral membrane protein"
+98,TCIRG1,"T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3"
+99,UQCRB,ubiquinol-cytochrome c reductase binding protein
+100,UQCRC1,ubiquinol-cytochrome c reductase core protein I
+101,UQCRC2,ubiquinol-cytochrome c reductase core protein II
+102,UQCRFS1,"ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1"
+103,UQCRH,ubiquinol-cytochrome c reductase hinge protein
+104,UQCRQ,"ubiquinol-cytochrome c reductase, complex III subunit VII, 9.5kDa"
